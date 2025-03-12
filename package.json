@@ -1,5 +1,6 @@
 {
   "name": "subspace.quest",
+  "workspaces": ["api", "app", "web"],
   "version": "0.1.0",
   "description": "",
   "main": "dist/index.js",
